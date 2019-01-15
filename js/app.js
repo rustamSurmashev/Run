@@ -1,4 +1,4 @@
-import {calculateRun} from "./run.js";
+import {calculateRun} from "./lib.js";
 
 const rateEl = document.getElementById('rate');
 const volumeEl = document.getElementById('volume');
